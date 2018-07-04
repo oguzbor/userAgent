@@ -1,2 +1,3 @@
-# userAgent
-Jmeter User Agent Script
+Apache Jmeter Mobil testlerde kullanabileceğiniz User Agent datalarıdır.  Header manager da da kullanılabilir. 
+
+iyi testler  (: 
